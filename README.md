@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Airbnb Listings Analysis – Demand Beyond Availability</title>
-    <style>
+
         body {
             font-family: Arial, Helvetica, sans-serif;
             line-height: 1.6;
