@@ -18,8 +18,8 @@ on <strong>host behavior, booking constraints, and stay flexibility</strong>.
 <p>
 In many marketplace analyses, availability is incorrectly assumed to represent
 demand. This project challenges that assumption and demonstrates that
-<strong>host-controlled restrictions</strong>—particularly minimum-night policies
-and calendar blocking—are major contributors to low booking performance.
+<strong>host-controlled restrictions</strong> particularly minimum-night policies
+and calendar blocking are major contributors to low booking performance.
 </p>
 
 <div class="highlight">
@@ -168,6 +168,7 @@ high-demand group due to greater flexibility in minimum-night policies.
 <h2>Tools & Skills Demonstrated</h2>
 <ul>
     <li>Python (Pandas, NumPy)</li>
+    <li>Visualizations using Python (Matplotlib, Seaborn, Plotly Express) </li>
     <li>Data cleaning & feature engineering</li>
     <li>Exploratory Data Analysis (EDA)</li>
     <li>Marketplace & behavioral analytics</li>
