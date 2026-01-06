@@ -86,14 +86,14 @@ The dataset is well suited for **analyzing host behavior, booking restrictions, 
 - Year of last review
 ## Key Findings
 
-1. Availability Is Not a Measure of Demand
+### 1. Availability Is Not a Measure of Demand
 
 - No meaningful relationship between availability and price
 - No meaningful relationship between availability and reviews
 - Listings with zero availability often showed no recent activity
 **Conclusion:** Availability reflects host decisions, not guest demand.
 
-2. Host Behavior Drives Underperformance
+### 2. Host Behavior Drives Underperformance
 
 - **~60% of listings belong to casual hosts**
 **Casual hosts are more likely to:**
@@ -101,11 +101,17 @@ The dataset is well suited for **analyzing host behavior, booking restrictions, 
 - Have inactive listings
 - Use restrictive minimum-night rules
 
-3. Low Reviews Do Not Mean Poor Quality
+### 3. Low Reviews Do Not Mean Poor Quality
 
 - Ratings are heavily skewed toward high scores
 - Many low-review listings are still highly rated
 - **Underperformance is driven by accessibility, not guest dissatisfaction**
+
+### 4. Manhattan Underperformance
+
+- Manhattan has a **higher concentration of unrated listings overall** compared to Brooklyn.
+- Brooklyn which only has **47 unrated weekend-stay listings** outperforms Manhattan which has **almost 300 unrated** weekend-stay listings.
+
 ## Main Analysis Question
 
 **Although Manhattan and Brooklyn have similar supply levels:**
