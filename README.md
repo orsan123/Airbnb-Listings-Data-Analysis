@@ -117,9 +117,16 @@ The dataset is well suited for **analyzing host behavior, booking restrictions, 
 
 **Why?**
 
-- Manhattan is highly saturated --> demand is spread thin
-- Brooklyn attracts more short-term, leisure travelers --> higher review volume
-- Host inactivity and restrictive booking rules are more common in Manhattan
+### *Role of Unrated Listings in Manhattan Underperformance*
+A key difference between Manhattan and Brooklyn lies in the volume of unrated listings, particularly among short-stay listings.
+
+- Manhattan has **1,648** unrated listings, compared to **1,080** in Brooklyn
+- Manhattan also contains significantly more unrated weekend-stay listings
+- While **Brooklyn only has 47 unrated** weekend-stay listings
+
+This suggests that while Manhattan appears to offer more short-stay supply, **a large portion of that supply does not convert into reviews**, reducing visibility and perceived demand.
+
+**Key Implication:** Manhattan’s underperformance is driven not by a lack of short-stay listings, but by a higher share of short-stay listings that remain unrated, **making them less competitive in search and review-based demand metrics.**
 ## Impact of Minimum-Night Restrictions
 
 - Weekend stays consistently appear more in high-demand groups
